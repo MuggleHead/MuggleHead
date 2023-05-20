@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Vidushi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20AI%20|%20App%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20AI%20|%20DataScience%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">I am an Undergraduate pursuing B.Tech. in CSE. I like to Code, Design, Innovate and Experiment. I am a tech enthusiastic and also loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
